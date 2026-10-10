@@ -14,3 +14,12 @@ Every round -
 2) The price is updates multiplicatively with `exp` a form of geometric brownian motion, so prices never go negative. 
 3) The new price is saved in the stocks `history` list.
 
+## Projected future updates 
+- Add different ordertypes (market order, limit order, stop-loss etc)
+- Pricing charts with `matplotlib`
+- A section where you can manually change the volatility of a stock.
+
+## Backstory 
+
+I originally planned on making this for a techno-cultural fest in my college, but I couldn't get permission for that. 
+I kept it in development as a standalone project.
